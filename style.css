@@ -1,0 +1,24 @@
+img{
+    width: 200px;
+    text-align: center;
+}
+
+body{
+    background-color: #E0E0E0;
+    box-shadow: 2px gray;
+    width: 900px;
+    padding: 0 auto;
+    color: #660000 Arial;
+}
+
+#felkialtojelek{
+    display: flex;   
+}
+
+#jel{
+    width: 200px;
+}
+
+#macska{
+    text-align: center;
+}
